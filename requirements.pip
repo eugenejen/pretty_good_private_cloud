@@ -1,0 +1,5 @@
+PyDrive==1.0.1
+PyYAML==3.11
+google-api-python-client==1.2
+httplib2==0.9
+pycrypto==2.6.1
